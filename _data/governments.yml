@@ -645,7 +645,6 @@ Thailand:
 U.K. Central:
   - 111online
   - acteng
-  - alan-turing-institute
   - alphagov
   - bank-of-england
   - BEACmodel
@@ -696,14 +695,12 @@ U.K. Central:
   - govuk-pay
   - govuk-paas
   - guidance-guarantee-programme
-  - HM-Treasury
   - hmcts
   - HMPO
   - hmrc
   - HO-CTO
   - homesengland
   - houseofcommonslibrary
-  - hse-digital
   - i-dot-ai
   - informatics-lab
   - InnovateUKGitHub
@@ -764,7 +761,6 @@ U.K. Central:
   - scottishgovernment
   - ScottishParliament
   - SkillsFundingAgency
-  - stfc
   - tanc-ahrc
   - The-Strategy-Unit
   - thepensionsregulator
@@ -785,7 +781,6 @@ U.K. Central:
   - ukncsc
   - UKParliData
   - ukparliament
-  - UKSpaceAgency
   - uktrade
   - ukwa
   - VMDDTE
