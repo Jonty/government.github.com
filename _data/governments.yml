@@ -670,6 +670,7 @@ U.K. Central:
   - defencedigital
   - defra
   - defra-design
+  - Defra-CAPD
   - department-for-transport
   - department-for-transport-BODS
   - DFE-Digital
@@ -716,6 +717,7 @@ U.K. Central:
   - jules-lsm
   - LandRegistry
   - landregistry-ops
+  - LandRegistry-Attic
   - lgss
   - LlGC-NLW
   - LocalGovDigital
@@ -758,6 +760,7 @@ U.K. Central:
   - nhs-ney-analytics
   - nhs-test-digital-design
   - nottmhospitals
+  - Nottingham-and-Nottinghamshire-ICS
   - nw-gmsa
   - nice-digital
   - nihp-public
@@ -766,6 +769,7 @@ U.K. Central:
   - ONSBigData
   - ONS-Innovation
   - ONS-OpenData
+  - GSS-Cogs
   - ONSdigital
   - openregister
   - OrdnanceSurvey
