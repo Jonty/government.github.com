@@ -265,7 +265,7 @@ France:
   - clipos
   - clipos-archive
   - communaute-cimi
-  - culturecommunication
+  - culturegouv
   - cw-leia
   - DGFiP
   - diplomatiegouvfr
@@ -374,7 +374,6 @@ Italy:
   - TeamDigitale
 
 Japan:
-  - city-of-kobe
   - codefornamie
   - gsi-cyberjapan
   - nhohq
@@ -614,7 +613,7 @@ Sweden:
 Switzerland:
   - admin-ch
   - alv-ch
-  - BFS-SHS-MSAS
+  - BFS-Web
   - dsi-vd
   - FNSKtZH
   - geoadmin
@@ -741,7 +740,6 @@ U.K. Councils:
   - edinburghcouncil
   - essexcountycouncil
   - gmfrs
-  - GuildfordBC
   - HfdsCouncil
   - kentcc
   - LambethCouncil
@@ -909,7 +907,6 @@ U.S. Federal:
   - imls
   - informaticslab
   - Innovation-Toolkit
-  - internationaltradeadministration
   - ioos
   - IRSgov
   - keplergo
