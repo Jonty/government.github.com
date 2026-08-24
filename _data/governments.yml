@@ -744,6 +744,7 @@ U.K. Central:
   - nhsbsa-data-analytics
   - nhsconnect
   - nhscymru
+  - nhselect
   - nwisbeta
   - nhsdigital
   - nhs-digital-gp-it-futures
@@ -755,6 +756,8 @@ U.K. Central:
   - NHSE-NDRS
   - nhse-dementia
   - nhse-talking-therapies
+  - nhs-r-community
+  - nhs-oa-community
   - nhsuk
   - nhsuk-archive
   - nhsalpha
